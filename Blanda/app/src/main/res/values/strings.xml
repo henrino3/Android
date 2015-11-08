@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blanda</string>
+    <string name="action_settings">Settings</string>
+    <string name="selectTask">SELECT TASK</string>
+    <string name="title_activity_display_question">DisplayQuestion</string>
+    <string name="question">Are You Drunk ? </string>
+    <string name="title_activity_display_result">DisplayResult</string>
+    <string name="resulttext">You are Drunk! You cannot do this task</string>
+    <string name="questionOneAnswerOne">You are Drunk! You cannot do this task</string>
+</resources>
